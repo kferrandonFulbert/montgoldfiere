@@ -2,6 +2,8 @@
 
 Ce projet a pour objectif d'apprendre les bases de Phaser 3 : charger des images, afficher un joueur, gérer les déplacements, détecter des collisions et incrémenter un score.
 
+[rendu final de l'application](https://kferrandonfulbert.github.io/montgoldfiere/)
+
 ## ⚙️ 1 — Préparation
 
 Créez un dossier contenant :

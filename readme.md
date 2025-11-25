@@ -4,6 +4,8 @@ Ce projet a pour objectif d'apprendre les bases de Phaser 3 : charger des images
 
 [rendu final de l'application](https://kferrandonfulbert.github.io/montgoldfiere/)
 
+![alt Screenshot du TP MontGolfiere](./screeshot.png "screen de MontGoldFiere")
+
 ## ⚙️ 1 — Préparation
 
 Créez un dossier contenant :
